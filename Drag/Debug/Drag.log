@@ -1,0 +1,144 @@
+﻿  Drag.cpp
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\U4\Drag\Drag.cpp(31,48): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\U4\Drag\Drag.cpp(32,51): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\U4\Drag\Drag.cpp(33,68): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\U4\Drag\Drag.cpp(33,48): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\U4\Drag\Drag.cpp(50,105): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\U4\Drag\Drag.cpp(50,84): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\U4\Drag\Drag.cpp(53,126): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\U4\Drag\Drag.cpp(53,72): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\U4\Drag\Drag.cpp(55,110): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\U4\Drag\Drag.cpp(55,89): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\U4\Drag\Drag.cpp(58,126): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\U4\Drag\Drag.cpp(58,72): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\U4\Drag\Drag.cpp(60,110): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\U4\Drag\Drag.cpp(60,89): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\U4\Drag\Drag.cpp(63,126): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\U4\Drag\Drag.cpp(63,72): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\U4\Drag\Drag.cpp(65,110): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\U4\Drag\Drag.cpp(65,89): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\U4\Drag\Drag.cpp(68,126): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\U4\Drag\Drag.cpp(68,72): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\U4\Drag\Drag.cpp(83,101): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=int
+          ]
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\U4\Drag\Drag.cpp(83,66): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=int
+          ]
+  Drag.vcxproj -> C:\Users\Usuario\Desktop\Lu Facultad\MAVI\U4\Drag\Debug\Drag.exe
